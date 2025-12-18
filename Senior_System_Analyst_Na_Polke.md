@@ -1,5 +1,5 @@
 # Senior System Analyst  
-### Product Team | B2B Marketplace
+**Product Team | B2B Marketplace**
 
 ---
 - [О продукте](#о-продукте)
