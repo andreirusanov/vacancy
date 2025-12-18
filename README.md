@@ -2,6 +2,8 @@
 ![Remote](https://img.shields.io/badge/format-remote-success)
 ![Domain](https://img.shields.io/badge/domain-b2b_marketplace-blue)
 ![Team](https://img.shields.io/badge/team-product_team-blueviolet)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/license-CC%20BY--SA%204.0-lightgrey)](https://creativecommons.org/licenses/by-sa/4.0/)
+
 
 Репозиторий содержит подробное описание роли *Senior System Analyst* в продуктовой команде B2B-маркетплейса **«на_полке»**.
 Формат выбран намеренно: так выглядят рабочие инженерные документы, а не HR-описания вакансий.
