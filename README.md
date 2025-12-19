@@ -15,7 +15,7 @@ ___
 
 #### 🧠 Аудитория
 
-`Senior / Lead System Analyst` | `Team Lead` | `Architect` | `Business / Solution Analyst` | `HR BP` 
+`System Analyst` | `Team Lead` | `Architect` | `Business / Solution Analyst` | `HR BP` 
 
 
 #### 📬 Контакты:
